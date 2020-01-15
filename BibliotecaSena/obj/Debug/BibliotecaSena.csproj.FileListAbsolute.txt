@@ -1,0 +1,61 @@
+C:\Users\yessica\source\repos\BibliotecaSena\BibliotecaSena\bin\Debug\BibliotecaSena.exe.config
+C:\Users\yessica\source\repos\BibliotecaSena\BibliotecaSena\bin\Debug\BibliotecaSena.exe
+C:\Users\yessica\source\repos\BibliotecaSena\BibliotecaSena\bin\Debug\BibliotecaSena.pdb
+C:\Users\yessica\source\repos\BibliotecaSena\BibliotecaSena\obj\Debug\BibliotecaSena.csprojAssemblyReference.cache
+C:\Users\yessica\source\repos\BibliotecaSena\BibliotecaSena\obj\Debug\BibliotecaSena.FrmEditorial.resources
+C:\Users\yessica\source\repos\BibliotecaSena\BibliotecaSena\obj\Debug\BibliotecaSena.Properties.Resources.resources
+C:\Users\yessica\source\repos\BibliotecaSena\BibliotecaSena\obj\Debug\BibliotecaSena.csproj.GenerateResource.cache
+C:\Users\yessica\source\repos\BibliotecaSena\BibliotecaSena\obj\Debug\BibliotecaSena.csproj.CoreCompileInputs.cache
+C:\Users\yessica\source\repos\BibliotecaSena\BibliotecaSena\obj\Debug\BibliotecaSena.exe
+C:\Users\yessica\source\repos\BibliotecaSena\BibliotecaSena\obj\Debug\BibliotecaSena.pdb
+C:\Users\yessica\Desktop\BibliotecaSena\BibliotecaSena\bin\Debug\BibliotecaSena.exe.config
+C:\Users\yessica\Desktop\BibliotecaSena\BibliotecaSena\bin\Debug\BibliotecaSena.exe
+C:\Users\yessica\Desktop\BibliotecaSena\BibliotecaSena\bin\Debug\BibliotecaSena.pdb
+C:\Users\yessica\Desktop\BibliotecaSena\BibliotecaSena\obj\Debug\BibliotecaSena.csprojAssemblyReference.cache
+C:\Users\yessica\Desktop\BibliotecaSena\BibliotecaSena\obj\Debug\BibliotecaSena.FrmEditorial.resources
+C:\Users\yessica\Desktop\BibliotecaSena\BibliotecaSena\obj\Debug\BibliotecaSena.Properties.Resources.resources
+C:\Users\yessica\Desktop\BibliotecaSena\BibliotecaSena\obj\Debug\BibliotecaSena.csproj.GenerateResource.cache
+C:\Users\yessica\Desktop\BibliotecaSena\BibliotecaSena\obj\Debug\BibliotecaSena.csproj.CoreCompileInputs.cache
+C:\Users\yessica\Desktop\BibliotecaSena\BibliotecaSena\obj\Debug\BibliotecaSena.exe
+C:\Users\yessica\Desktop\BibliotecaSena\BibliotecaSena\obj\Debug\BibliotecaSena.pdb
+C:\Users\yessica\Desktop\BibliotecaSena\BibliotecaSena\obj\Debug\BibliotecaSena.FrmLibros.resources
+C:\Users\yessica\Desktop\BibliotecaSena\BibliotecaSena\obj\Debug\BibliotecaSena.FrmConsultaLibros.resources
+C:\Users\100_Jornada1\Music\BibliotecaSena\BibliotecaSena\obj\Debug\BibliotecaSena.csprojAssemblyReference.cache
+C:\Users\100_Jornada1\Music\BibliotecaSena\BibliotecaSena\obj\Debug\BibliotecaSena.FrmConsultaLibros.resources
+C:\Users\100_Jornada1\Music\BibliotecaSena\BibliotecaSena\obj\Debug\BibliotecaSena.FrmEditorial.resources
+C:\Users\100_Jornada1\Music\BibliotecaSena\BibliotecaSena\obj\Debug\BibliotecaSena.FrmLibros.resources
+C:\Users\100_Jornada1\Music\BibliotecaSena\BibliotecaSena\obj\Debug\BibliotecaSena.Properties.Resources.resources
+C:\Users\100_Jornada1\Music\BibliotecaSena\BibliotecaSena\obj\Debug\BibliotecaSena.csproj.GenerateResource.cache
+C:\Users\100_Jornada1\Music\BibliotecaSena\BibliotecaSena\obj\Debug\BibliotecaSena.csproj.CoreCompileInputs.cache
+C:\Users\100_Jornada1\Music\BibliotecaSena\BibliotecaSena\obj\Debug\BibliotecaSena.exe
+C:\Users\100_Jornada1\Music\BibliotecaSena\BibliotecaSena\obj\Debug\BibliotecaSena.pdb
+C:\Users\100_Jornada1\Music\BibliotecaSena\BibliotecaSena\bin\Debug\BibliotecaSena.exe.config
+C:\Users\100_Jornada1\Music\BibliotecaSena\BibliotecaSena\bin\Debug\BibliotecaSena.exe
+C:\Users\100_Jornada1\Music\BibliotecaSena\BibliotecaSena\bin\Debug\BibliotecaSena.pdb
+C:\Users\100_Jornada1\Music\BibliotecaSena\BibliotecaSena\obj\Debug\BibliotecaSena.FrmBiblioteca.resources
+C:\Users\Juan\Desktop\BibliotecaSena\BibliotecaSena\bin\Debug\BibliotecaSena.exe.config
+C:\Users\Juan\Desktop\BibliotecaSena\BibliotecaSena\bin\Debug\BibliotecaSena.exe
+C:\Users\Juan\Desktop\BibliotecaSena\BibliotecaSena\bin\Debug\BibliotecaSena.pdb
+C:\Users\Juan\Desktop\BibliotecaSena\BibliotecaSena\obj\Debug\BibliotecaSena.csprojAssemblyReference.cache
+C:\Users\Juan\Desktop\BibliotecaSena\BibliotecaSena\obj\Debug\BibliotecaSena.FrmBiblioteca.resources
+C:\Users\Juan\Desktop\BibliotecaSena\BibliotecaSena\obj\Debug\BibliotecaSena.FrmConsultaLibros.resources
+C:\Users\Juan\Desktop\BibliotecaSena\BibliotecaSena\obj\Debug\BibliotecaSena.FrmEditorial.resources
+C:\Users\Juan\Desktop\BibliotecaSena\BibliotecaSena\obj\Debug\BibliotecaSena.FrmLibros.resources
+C:\Users\Juan\Desktop\BibliotecaSena\BibliotecaSena\obj\Debug\BibliotecaSena.Properties.Resources.resources
+C:\Users\Juan\Desktop\BibliotecaSena\BibliotecaSena\obj\Debug\BibliotecaSena.csproj.GenerateResource.cache
+C:\Users\Juan\Desktop\BibliotecaSena\BibliotecaSena\obj\Debug\BibliotecaSena.csproj.CoreCompileInputs.cache
+C:\Users\Juan\Desktop\BibliotecaSena\BibliotecaSena\obj\Debug\BibliotecaSena.exe
+C:\Users\Juan\Desktop\BibliotecaSena\BibliotecaSena\obj\Debug\BibliotecaSena.pdb
+C:\Users\yessica\Desktop\ADSI\Base da datos\BibliotecaSena2\BibliotecaSena\bin\Debug\BibliotecaSena.exe.config
+C:\Users\yessica\Desktop\ADSI\Base da datos\BibliotecaSena2\BibliotecaSena\bin\Debug\BibliotecaSena.exe
+C:\Users\yessica\Desktop\ADSI\Base da datos\BibliotecaSena2\BibliotecaSena\bin\Debug\BibliotecaSena.pdb
+C:\Users\yessica\Desktop\ADSI\Base da datos\BibliotecaSena2\BibliotecaSena\obj\Debug\BibliotecaSena.csprojAssemblyReference.cache
+C:\Users\yessica\Desktop\ADSI\Base da datos\BibliotecaSena2\BibliotecaSena\obj\Debug\BibliotecaSena.FrmBiblioteca.resources
+C:\Users\yessica\Desktop\ADSI\Base da datos\BibliotecaSena2\BibliotecaSena\obj\Debug\BibliotecaSena.FrmConsultaLibros.resources
+C:\Users\yessica\Desktop\ADSI\Base da datos\BibliotecaSena2\BibliotecaSena\obj\Debug\BibliotecaSena.FrmEditorial.resources
+C:\Users\yessica\Desktop\ADSI\Base da datos\BibliotecaSena2\BibliotecaSena\obj\Debug\BibliotecaSena.FrmLibros.resources
+C:\Users\yessica\Desktop\ADSI\Base da datos\BibliotecaSena2\BibliotecaSena\obj\Debug\BibliotecaSena.Properties.Resources.resources
+C:\Users\yessica\Desktop\ADSI\Base da datos\BibliotecaSena2\BibliotecaSena\obj\Debug\BibliotecaSena.csproj.GenerateResource.cache
+C:\Users\yessica\Desktop\ADSI\Base da datos\BibliotecaSena2\BibliotecaSena\obj\Debug\BibliotecaSena.csproj.CoreCompileInputs.cache
+C:\Users\yessica\Desktop\ADSI\Base da datos\BibliotecaSena2\BibliotecaSena\obj\Debug\BibliotecaSena.exe
+C:\Users\yessica\Desktop\ADSI\Base da datos\BibliotecaSena2\BibliotecaSena\obj\Debug\BibliotecaSena.pdb
